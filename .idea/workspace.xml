@@ -23,6 +23,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
       <list>
@@ -50,6 +55,7 @@
       <workItem from="1591539801863" duration="427000" />
       <workItem from="1591549102387" duration="5000" />
       <workItem from="1591608669432" duration="5663000" />
+      <workItem from="1591770693972" duration="209000" />
     </task>
     <servers />
   </component>
